@@ -449,93 +449,93 @@ p {
 # Hero
 --------------------------------------------------------------*/
 #hero {
-  background: url("../img/jihye_big.png") repeat scroll center center/cover;
+  background: url("../img/jihye_big.jpg") repeat scroll center center/cover;
   height: 75vh;
   width: 100%;
 }
 
 #hero01 {
-  background: url("../img/miuk_big.png") repeat scroll center center/cover;
+  background: url("../img/miuk_big.jpg") repeat scroll center center/cover;
   height: 75vh;
   width:100%;}
 
 #hero02 {
-  background: url("../img/emily_big.png") repeat scroll center center/cover;
+  background: url("../img/emily_big.jpg") repeat scroll center center/cover;
   height: 75vh;
   width:100%;}
 
 #hero03 {
-  background: url("../img/eunbi_big.png") repeat scroll center center/cover;
+  background: url("../img/eunbi_big.jpg") repeat scroll center center/cover;
   height: 75vh;
   width:100%;}
 
 #hero04 {
-  background: url("../img/hyunuk_big.png") repeat scroll center center/cover;
+  background: url("../img/hyunuk_big.jpg") repeat scroll center center/cover;
   height: 75vh;
   width:100%;}
 
 #hero05 {
-  background: url("../img/daon_big.png") repeat scroll center center/cover;
+  background: url("../img/daon_big.jpg") repeat scroll center center/cover;
   height: 75vh;
   width:100%;}
 
 #hero06 {
-  background: url("../img/hwi_big.png") repeat scroll center center/cover;
+  background: url("../img/hwi_big.jpg") repeat scroll center center/cover;
   height: 75vh;
   width:100%;}
 
 #hero07 {
-  background: url("../img/dongdong_big.png") repeat scroll center center/cover;
+  background: url("../img/dongdong_big.jpg") repeat scroll center center/cover;
   height: 75vh;
   width:100%;}
 
 #hero08 {
-  background: url("../img/kimsan_big.png") repeat scroll center center/cover;
+  background: url("../img/kimsan_big.jpg") repeat scroll center center/cover;
   height: 75vh;
   width:100%;}
 
 #hero09 {
-  background: url("../img/doyun_big.png") repeat scroll center center/cover;
+  background: url("../img/doyun_big.jpg") repeat scroll center center/cover;
   height: 75vh;
   width:100%;}
 
 #hero10 {
-  background: url("../img/doyeon_big.png") repeat scroll center center/cover;
+  background: url("../img/doyeon_big.jpg") repeat scroll center center/cover;
   height: 75vh;
   width:100%;}
 
 #hero11 {
-  background: url("../img/musa_big.png") repeat scroll center center/cover;
+  background: url("../img/musa_big.jpg") repeat scroll center center/cover;
   height: 75vh;
   width:100%;}
 
 #hero12 {
-  background: url("../img/choihyunju_big.png") repeat scroll center center/cover;
+  background: url("../img/choihyunju_big.jpg") repeat scroll center center/cover;
   height: 75vh;
   width:100%;}
 
 #hero13 {
-  background: url("../img/sagam_big.png") repeat scroll center center/cover;
+  background: url("../img/sagam_big.jpg") repeat scroll center center/cover;
   height: 75vh;
   width:100%;}
 
 #hero14 {
-  background: url("../img/dotoritrio_big.png") repeat scroll center center/cover;
+  background: url("../img/dotoritrio_big.jpg") repeat scroll center center/cover;
   height: 75vh;
   width:100%;}
 
 #hero15 {
-  background: url("../img/parkjueok_big.png") repeat scroll center center/cover;
+  background: url("../img/parkjueok_big.jpg") repeat scroll center center/cover;
   height: 75vh;
   width:100%;}
 
 #hero16 {
-  background: url("../img/muro_big.png") repeat scroll center center/cover;
+  background: url("../img/muro_big.jpg") repeat scroll center center/cover;
   height: 75vh;
   width:100%;}
 
 #hero17 {
-  background: url("../img/sadako_big.png") repeat scroll center center/cover;
+  background: url("../img/sadako_big.jpg") repeat scroll center center/cover;
   height: 75vh;
   width:100%;}
 #hero .hero-content {
